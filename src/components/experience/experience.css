@@ -6,7 +6,7 @@
 
 .experience__container > div {
     background: var(--color-bg-variant);
-    padding: 2.7rem 10rem;
+    padding: 2.4rem 5rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -31,16 +31,13 @@
 }
 
 .experience__details {
-    display: grid;
-    gap: 1rem;
-    align-content: flex-start;
+    display: flex;
+    gap: 3rem;
     font-size: 20px;
 }
 
 .experience__details-icon {
-    position: relative;
-    right: 35px;
-    top:35px;
+    margin-top: 6px;
     color: var(--color-primary);
 }
 
