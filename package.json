@@ -1,5 +1,6 @@
 {
   "name": "personal-portfolio-website",
+  "homepage": "https://personal-web-portfolio-six.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
